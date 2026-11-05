@@ -692,6 +692,12 @@ Bukti: form penambahan atau pengeditan buku yang menampilkan kolom Description.
 
 Bukti: pengujian hak akses pengguna Admin, Staff, dan Viewer.
 
+Hak Akses Admin : 
+<img width="1428" height="864" alt="image" src="https://github.com/user-attachments/assets/9be92286-1381-4426-8e24-04a9c75d42b3" />
+<img width="1916" height="1026" alt="image" src="https://github.com/user-attachments/assets/9c87607f-d227-4097-af7f-9827fc4749b7" />
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/fe7bac78-4e26-44d4-95d1-0006a6f6241d" />
+
+
 `Tempat gambar: screenshots/tugas-2-role-access.png`
 
 ### 3. Screenshot Dashboard Statistik
