@@ -693,14 +693,15 @@ Bukti: form penambahan atau pengeditan buku yang menampilkan kolom Description.
 Bukti: pengujian hak akses pengguna Admin, Staff, dan Viewer.
 
 Hak Akses Admin : 
-<img width="1428" height="864" alt="image" src="https://github.com/user-attachments/assets/9be92286-1381-4426-8e24-04a9c75d42b3" />
-<img width="1916" height="1026" alt="image" src="https://github.com/user-attachments/assets/9c87607f-d227-4097-af7f-9827fc4749b7" />
-<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/fe7bac78-4e26-44d4-95d1-0006a6f6241d" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/5f10c7e1-ada5-41c3-bc27-841f185d1c1b" />
+
 
 Hak Akses Staff : 
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/6477569e-a2c3-4d5d-831e-1d4d65e697c7" />
 
 
 Hak Akses Viewer :
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/e1cfae21-ec1b-4ba5-9908-47268c48428d" />
 
 
 `Tempat gambar: screenshots/tugas-2-role-access.png`
