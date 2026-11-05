@@ -734,23 +734,16 @@ Bukti: form Book yang menampilkan pilihan beberapa kategori.
 
 Bukti: data buku yang berhasil tersimpan dengan kategori yang dipilih.
 
+<img width="1348" height="425" alt="image" src="https://github.com/user-attachments/assets/c7801191-76ec-40ba-b4d1-8dbea65ec7ff" />
+
 `Tempat gambar: screenshots/tugas-2-category-relationship.png`
 
 ### 7. Screenshot Daftar Kategori
 
 Bukti: halaman daftar kategori yang telah dibuat dan tersimpan.
 
+<img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/5e935aea-3aaf-45f7-9609-99e2b69e4d8a" />
+
 `Tempat gambar: screenshots/tugas-2-category-list.png`
 
-### Checklist Evaluasi
 
-- [ ] Kolom Description berhasil ditambahkan.
-- [ ] Form buku menampilkan Textarea.
-- [ ] Role Admin, Staff, dan Viewer tersedia.
-- [ ] Hak akses setiap role telah diuji.
-- [ ] Dashboard statistik berhasil ditampilkan.
-- [ ] Grafik status buku berhasil ditampilkan.
-- [ ] Model dan tabel Category berhasil dibuat.
-- [ ] Relasi many-to-many berhasil diterapkan.
-- [ ] Kategori dapat dipilih pada form buku.
-- [ ] Screenshot hasil pengerjaan telah ditambahkan ke repository.
