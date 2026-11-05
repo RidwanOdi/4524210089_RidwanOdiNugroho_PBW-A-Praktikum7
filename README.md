@@ -684,7 +684,7 @@ Implementasikan seluruh bagian A sampai D dan lampirkan screenshot sebagai bukti
 
 Bukti: form penambahan atau pengeditan buku yang menampilkan kolom Description.
 
-<img width="951" height="703" alt="image" src="https://github.com/user-attachments/assets/053b9224-8025-409c-9603-9bf1ca3d4ccd" />
+<img width="1429" height="866" alt="image" src="https://github.com/user-attachments/assets/16d2bae7-d344-46fd-b517-678656def755" />
 
 `Tempat gambar: screenshots/tugas-2-book-description.png`
 
