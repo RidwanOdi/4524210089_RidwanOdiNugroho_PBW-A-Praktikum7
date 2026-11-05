@@ -716,6 +716,7 @@ Bukti: dashboard yang menampilkan Total Books, Total Authors, Books Available, d
 ### 4. Screenshot Grafik Status Buku
 
 Bukti: Doughnut Chart yang menampilkan perbandingan buku Available dan Borrowed.
+
 <img width="498" height="544" alt="image" src="https://github.com/user-attachments/assets/af397557-258b-4626-8f2a-9a712f6d24d3" />
 
 
@@ -724,6 +725,8 @@ Bukti: Doughnut Chart yang menampilkan perbandingan buku Available dan Borrowed.
 ### 5. Screenshot Form Kategori Buku
 
 Bukti: form Book yang menampilkan pilihan beberapa kategori.
+
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/539432b0-171a-4b3a-830a-36c78ee74bbb" />
 
 `Tempat gambar: screenshots/tugas-2-book-categories.png`
 
