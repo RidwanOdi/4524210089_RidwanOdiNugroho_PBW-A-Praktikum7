@@ -697,14 +697,18 @@ Hak Akses Admin :
 <img width="1916" height="1026" alt="image" src="https://github.com/user-attachments/assets/9c87607f-d227-4097-af7f-9827fc4749b7" />
 <img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/fe7bac78-4e26-44d4-95d1-0006a6f6241d" />
 
+Hak Akses Staff : 
+
+
+Hak Akses Viewer :
+
 
 `Tempat gambar: screenshots/tugas-2-role-access.png`
 
 ### 3. Screenshot Dashboard Statistik
 
 Bukti: dashboard yang menampilkan Total Books, Total Authors, Books Available, dan Books Borrowed.
-<img width="1112" height="396" alt="image" src="https://github.com/user-attachments/assets/66075a84-ed42-4786-84c5-d7a83cf35a10" />
-
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/3b3f96d5-49c3-4f67-8701-4726bac3c3ec" />
 
 `Tempat gambar: screenshots/tugas-2-dashboard-stats.png`
 
