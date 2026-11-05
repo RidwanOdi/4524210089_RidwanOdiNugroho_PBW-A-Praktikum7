@@ -716,7 +716,8 @@ Bukti: dashboard yang menampilkan Total Books, Total Authors, Books Available, d
 ### 4. Screenshot Grafik Status Buku
 
 Bukti: Doughnut Chart yang menampilkan perbandingan buku Available dan Borrowed.
-<img width="1117" height="833" alt="image" src="https://github.com/user-attachments/assets/9a69f4b3-aba7-48ed-bb1a-52ec2b706d07" />
+<img width="498" height="544" alt="image" src="https://github.com/user-attachments/assets/af397557-258b-4626-8f2a-9a712f6d24d3" />
+
 
 `Tempat gambar: screenshots/tugas-2-book-status-chart.png`
 
